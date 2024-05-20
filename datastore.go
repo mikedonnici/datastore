@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/regrowag/ses/pkg/retry"
+	"github.com/mikedonnici/retry"
 )
 
 const (

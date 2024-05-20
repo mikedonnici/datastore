@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/regrowag/ses/pkg/datastore"
+	"github.com/mikedonnici/datastore"
 )
 
 // Each of these platform services should be represented in the
